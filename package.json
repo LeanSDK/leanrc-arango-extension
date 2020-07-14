@@ -70,7 +70,7 @@
   "peerDependencies": {
     "i": "0.3.6",
     "joi": "10.6.0",
-    "lodash": "4.17.4"
+    "lodash": "4.17.19"
   },
   "dependencies": {
     "LeanRC": "git+ssh://git@github.com:LeanPack/leanrc.git#v6.2.3",
@@ -103,7 +103,7 @@
     "gulp-zip": "3.2.0",
     "i": "0.3.6",
     "joi": "10.6.0",
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "mocha": "3.2.0",
     "needle": "1.6.0",
     "request": "2.80.0",
