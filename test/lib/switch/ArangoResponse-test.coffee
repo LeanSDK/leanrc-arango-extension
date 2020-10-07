@@ -6,7 +6,7 @@ accepts = require 'accepts'
 mimeTypes = require 'mime-types'
 contentDisposition = require 'content-disposition'
 status = require 'statuses'
-LeanRC = require 'LeanRC'
+LeanRC = require '@leansdk/leanrc'
 EventEmitter = require 'events'
 ArangoExtension = require '../../..'
 

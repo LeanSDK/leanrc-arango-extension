@@ -6,7 +6,7 @@ sinon               = require 'sinon'
 _                   = require 'lodash'
 moment              = require 'moment'
 
-LeanRC              = require 'LeanRC'
+LeanRC              = require '@leansdk/leanrc'
 
 ArangoExtension = require '../../..'
 { co }          = LeanRC::Utils

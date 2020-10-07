@@ -5,7 +5,7 @@ EventEmitter = require 'events'
 sinon = require 'sinon'
 mimeTypes = require 'mime-types'
 
-LeanRC = require 'LeanRC'
+LeanRC = require '@leansdk/leanrc'
 
 ArangoExtension = require '../../..'
 

@@ -1,5 +1,5 @@
 { expect, assert } = require 'chai'
-LeanRC = require 'LeanRC'
+LeanRC = require '@leansdk/leanrc'
 ArangoExtension = require '../../..'
 { co } = LeanRC::Utils
 

@@ -1,13 +1,11 @@
-index.js
-
 node_modules
 npm-debug.log
 
 package.zip
 
-dist
 doc
 
 compiled_migrations
 
 public
+tmp

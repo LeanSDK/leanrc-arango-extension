@@ -9,7 +9,7 @@ contentDisposition = require 'content-disposition'
 status = require 'statuses'
 httpErrors = require 'http-errors'
 EventEmitter = require 'events'
-LeanRC = require 'LeanRC'
+LeanRC = require '@leansdk/leanrc'
 
 ArangoExtension = require '../../..'
 

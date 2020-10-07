@@ -1,6 +1,6 @@
 t1 = Date.now()
 
-LeanRC = require 'LeanRC'
+LeanRC = require '@leansdk/leanrc'
 ArangoExtensionMixin = require '../..'
 
 class Test extends LeanRC

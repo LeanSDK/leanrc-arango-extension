@@ -1,4 +1,4 @@
-LeanRC = require 'LeanRC'
+LeanRC = require '@leansdk/leanrc'
 
 
 class Logger extends LeanRC

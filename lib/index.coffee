@@ -17,8 +17,8 @@
 Example of use
 
 ```coffee
-LeanRC = require 'LeanRC'
-ArangoExtension = require 'leanrc-arango-extension'
+LeanRC = require '@leansdk/leanrc'
+ArangoExtension = require '@leansdk/leanrc-arango-extension'
 
 class TestApp extends LeanRC
   @inheritProtected()

@@ -2,7 +2,7 @@
 sinon = require 'sinon'
 _ = require 'lodash'
 accepts = require 'accepts'
-LeanRC = require 'LeanRC'
+LeanRC = require '@leansdk/leanrc'
 EventEmitter = require 'events'
 ArangoExtension = require '../../..'
 
